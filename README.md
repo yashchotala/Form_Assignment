@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+
+Demo Video
+
+(https://drive.google.com/file/d/1wb7u0Z_Hu546ZKHf8kMbKt4HSo-7Jmc8/view?usp=drive_link)
+
+Click the link above to watch the demo .
+
+
 This project is a modern, animated contact form designed with real-time client-side validation and beautiful glassmorphism UI. It is simple, responsive, and perfect for portfolios or professional front-end submissions.
 
 -->What I Built
@@ -43,6 +50,3 @@ Input your name and email in the terminal
 Output example:
 
 Received data: Name - , Email - 
-=======
-
->>>>>>> 7191e0ec05d4d9599b863e5aa77f1b9d62870603
