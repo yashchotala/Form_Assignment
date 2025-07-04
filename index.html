@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Form</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="background">
+    <div class="heading">
+      <h1 class="text-mask">Form</h1>
+    </div>
+    <form id="contactForm" class="glass-form">
+      <h2>Contact Us</h2>
+
+      <div class="input-group">
+        <input type="text" id="name" placeholder="Your Name" />
+        <small class="error-message" id="nameError"></small>
+      </div>
+
+      <div class="input-group">
+        <input type="email" id="email" placeholder="Your Email" />
+        <small class="error-message" id="emailError"></small>
+      </div>
+
+      <button type="submit">Send Message</button>
+      <p id="formStatus"></p>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
